@@ -2,129 +2,129 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Analytics;Machine+Learning+Developer;Software+Engineer;Building+Data+Driven+Solutions" />
+
+<br>
+
 ### AI & Data Analytics | Software Engineering | Machine Learning
 
-Building intelligent solutions by combining software engineering, data analytics, and artificial intelligence.
+Building intelligent software solutions by combining data, technology and artificial intelligence.
 
-🌐 Portfolio: https://jdmejias.site
+🌐 Portfolio: **https://jdmejias.site**
 
 </div>
 
 ---
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Analytics;Machine+Learning+Developer;Software+Engineering;Building+Data+Driven+Solutions" />
+
 ## 🚀 About Me
 
-I am a Computer Systems Engineering and Business Administration student focused on **Artificial Intelligence, Machine Learning, Data Analytics, and Cloud Computing**.
+I am a **Computer Systems Engineering and Business Administration student** focused on **Artificial Intelligence, Machine Learning, Data Analytics and Cloud Computing**.
 
-My background combines software development and business knowledge, allowing me to design technological solutions focused on solving real-world problems and generating value through data.
+I build technology solutions that combine software engineering and data-driven approaches to solve real-world business problems.
 
-Currently, I am developing projects involving:
+Currently working on projects involving:
 
-- Machine Learning models
-- Data analysis and visualization
-- Full-stack applications
-- REST APIs
-- Cloud-based solutions
-- Business intelligence tools
-
----
-
-## 🧠 Technical Skills
-
-### Artificial Intelligence & Data
-
-- Python
-- Machine Learning
-- Data Analytics
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow
-- Data Visualization
-
-
-### Backend & APIs
-
-- Python
-- FastAPI
-- REST APIs
-- SQL
-- PostgreSQL
-
-
-### Frontend & Development
-
-- React.js
-- Next.js
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-
-
-### Cloud & Tools
-
-- AWS
-- Docker
-- Git
-- GitHub
-- Linux
+- 🤖 Machine Learning & AI applications
+- 📊 Data Analytics and visualization
+- 💻 Full-stack web applications
+- 🔌 REST APIs and backend solutions
+- ☁️ Cloud-based architectures
 
 ---
 
-## 🚀 Featured Projects
+# 🧠 Tech Stack
 
-### 📊 ADSInfluencers
+<div align="center">
+
+### AI & Data
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" />
+
+<br>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css" />
+
+<br>
+
+### Backend & Cloud
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,aws,docker,git,github" />
+
+</div>
+
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 AdsInfluencers
 
 AI-powered platform focused on influencer marketing analytics and digital advertising solutions.
 
 🔗 https://adsinfluencers.com/
 
 
-### 🌱 DeOrigen
+## 🌱 DeOrigen
 
-Digital platform focused on connecting users with local products and sustainable commerce.
+Digital platform connecting users with local products through sustainable commerce.
 
 🔗 https://www.deorigen.online/es
 
 
-### ☕ Sass — Café Pa'l Monte Management System
+## ☕ Sass — Café Pa'l Monte Management System
 
-Desktop software solution for managing WhatsApp Business orders, analytics, and financial reporting.
+Desktop software solution for managing WhatsApp Business orders and business analytics.
 
 Features:
-- WhatsApp Business synchronization
-- Local SQLite database
-- Sales dashboard
-- PDF and Excel reports
-- Business analytics
+
+- 📱 WhatsApp Business synchronization
+- 🗄️ Local SQLite database
+- 📊 Sales dashboard
+- 📄 PDF & Excel reports
+- 📈 Business analytics
+
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=python,aws,docker,tensorflow" />
 
 - Advanced Machine Learning
 - Data Engineering
 - Cloud Architecture
 - AI-powered applications
-- Software architecture
 
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent" />
+
+</div>
+
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-Portfolio:
-https://jdmejias.site
+<div align="center">
 
-LinkedIn:
-https://linkedin.com/in/TU_LINKEDIN
+<a href="https://www.linkedin.com/in/jhon-deiby-mejias-6a5a60208/">
+<img src="https://img.shields.io/badge/LinkedIn-Jhon%20Deiby%20Mejias-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-Email:
-jhon0303@javerianacali.edu.co
+<a href="https://jdmejias.site">
+<img src="https://img.shields.io/badge/Portfolio-jdmejias.site-black?style=for-the-badge&logo=googlechrome">
+</a>
+
+<a href="mailto:jhon0303@javerianacali.edu.co">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+</div>
