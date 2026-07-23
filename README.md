@@ -119,7 +119,7 @@ Features:
 <img src="https://img.shields.io/badge/LinkedIn-Jhon%20Deiby%20Mejias-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://jdmejias.site">
+<a href="https://www.jdmejias.site/">
 <img src="https://img.shields.io/badge/Portfolio-jdmejias.site-black?style=for-the-badge&logo=googlechrome">
 </a>
 
