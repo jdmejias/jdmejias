@@ -11,7 +11,7 @@ Building intelligent solutions by combining software engineering, data analytics
 </div>
 
 ---
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Analytics;Machine+Learning+Developer;Software+Engineering;Building+Data+Driven+Solutions" />
 ## 🚀 About Me
 
 I am a Computer Systems Engineering and Business Administration student focused on **Artificial Intelligence, Machine Learning, Data Analytics, and Cloud Computing**.
