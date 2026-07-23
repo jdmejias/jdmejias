@@ -127,4 +127,4 @@ LinkedIn:
 https://linkedin.com/in/TU_LINKEDIN
 
 Email:
-TU_EMAIL
+jhon0303@javerianacali.edu.co
