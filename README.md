@@ -1,16 +1,130 @@
-## Hi there 👋
+# 👋 Hi, I'm Jhon Deiby Mejias
 
-<!--
-**jdmejias/jdmejias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### AI & Data Analytics | Software Engineering | Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building intelligent solutions by combining software engineering, data analytics, and artificial intelligence.
+
+🌐 Portfolio: https://jdmejias.site
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I am a Computer Systems Engineering and Business Administration student focused on **Artificial Intelligence, Machine Learning, Data Analytics, and Cloud Computing**.
+
+My background combines software development and business knowledge, allowing me to design technological solutions focused on solving real-world problems and generating value through data.
+
+Currently, I am developing projects involving:
+
+- Machine Learning models
+- Data analysis and visualization
+- Full-stack applications
+- REST APIs
+- Cloud-based solutions
+- Business intelligence tools
+
+---
+
+## 🧠 Technical Skills
+
+### Artificial Intelligence & Data
+
+- Python
+- Machine Learning
+- Data Analytics
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- Data Visualization
+
+
+### Backend & APIs
+
+- Python
+- FastAPI
+- REST APIs
+- SQL
+- PostgreSQL
+
+
+### Frontend & Development
+
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+
+
+### Cloud & Tools
+
+- AWS
+- Docker
+- Git
+- GitHub
+- Linux
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 ADSInfluencers
+
+AI-powered platform focused on influencer marketing analytics and digital advertising solutions.
+
+🔗 https://adsinfluencers.com/
+
+
+### 🌱 DeOrigen
+
+Digital platform focused on connecting users with local products and sustainable commerce.
+
+🔗 https://www.deorigen.online/es
+
+
+### ☕ Sass — Café Pa'l Monte Management System
+
+Desktop software solution for managing WhatsApp Business orders, analytics, and financial reporting.
+
+Features:
+- WhatsApp Business synchronization
+- Local SQLite database
+- Sales dashboard
+- PDF and Excel reports
+- Business analytics
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Machine Learning
+- Data Engineering
+- Cloud Architecture
+- AI-powered applications
+- Software architecture
+
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent)
+
+---
+
+## 📫 Contact
+
+Portfolio:
+https://jdmejias.site
+
+LinkedIn:
+https://linkedin.com/in/TU_LINKEDIN
+
+Email:
+TU_EMAIL
